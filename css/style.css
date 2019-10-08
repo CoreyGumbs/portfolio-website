@@ -966,6 +966,12 @@ ul.portfolio-image li .desc{
 .wrap-about .quote{
   font-weight: 900;
 }
+
+.wrap-about .attribution{
+
+  color: #ccc;
+  line-height: 20px;
+}
 .wrap-about .name {
   margin: 40px 0 20px 0;
   line-height: 30px;
